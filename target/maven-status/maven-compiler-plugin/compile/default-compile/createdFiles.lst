@@ -1,0 +1,9 @@
+com\gigamog\HttpUtil\headers\HJwt.class
+com\gigamog\HttpUtil\pojo\JsonBase.class
+com\gigamog\HttpUtil\pojo\SimpleResponse.class
+com\gigamog\HttpUtil\CustomResponses.class
+com\gigamog\HttpUtil\pojo\StringResponse.class
+com\gigamog\HttpUtil\pojo\ErrorResponse.class
+com\gigamog\HttpUtil\headers\HApiKey.class
+com\gigamog\HttpUtil\HttpUtil.class
+com\gigamog\HttpUtil\Resp.class
